@@ -1,0 +1,32 @@
+💼 Business Problems Solved
+This project helps solve real-world business challenges faced by eCommerce companies using data-driven insights:
+
+1. 📉 Monthly Sales Performance Fluctuations
+Problem: Sales vary greatly across months without clear patterns.
+
+Solution: The notebook’s month-wise sales trend analysis reveals seasonal peaks and dips to guide promotional planning.
+
+2. 🧾 Top-Grossing Product Categories
+Problem: Uncertainty about which product categories drive most revenue.
+
+Solution: Category-wise and sub-category-wise sales breakdown helps prioritize high-performing product lines.
+
+3. 💰 Profitability Misalignment
+Problem: High sales do not always mean high profits.
+
+Solution: Sales and profit visualizations by month and category identify profit leakages despite strong revenue.
+
+4. 🧍‍♂️ Customer Segment Targeting
+Problem: Lack of clarity on which customer groups are most valuable.
+
+Solution: Segment-wise analysis of sales and profit guides targeted marketing and customer retention strategies.
+
+5. 📦 Sub-Category Optimization
+Problem: Inefficient stock and inventory decisions due to unclear sub-category performance.
+
+Solution: Detailed sub-category bar charts help decide which product lines to expand or phase out.
+
+6. ⚖️ Sales-to-Profit Ratio Monitoring
+Problem: Business lacks visibility into profitability efficiency.
+
+Solution: Comparing sales vs. profit by segment/category helps optimize pricing, discount strategies, and cost control.
